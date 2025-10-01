@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Hacktoberfest 2025: Level 0 Registered](./hacktoberfest2025.png)](https://www.holopin.io/hacktoberfest2025/userbadge/cmg7akgt6000el204k6bvlr9x)
+[![Hacktoberfest 2025: Level 0 Registered](./lvl0-human.webp)](https://www.holopin.io/hacktoberfest2025/userbadge/cmg7akgt6000el204k6bvlr9x)
 <!--
 **crlian/crlian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
