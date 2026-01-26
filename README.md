@@ -1,4 +1,4 @@
-Hey, I’m Cesar 👋  
+Hey, I’m Cesar
 
 I’m a software engineer and indie builder focused on shipping real products — not just demos.
 
@@ -7,7 +7,7 @@ I enjoy taking ideas from zero to production: architecture, APIs, UI, infra, and
 
 I currently work mainly with Java, JavaScript, React, and modern web stacks, building SaaS tools, internal platforms, and AI-powered products.
 
-🔍 What I care about  
+What I care about  
 • Clean, maintainable architectures  
 • Systems that don’t fall over in production  
 • Fast iteration loops  
