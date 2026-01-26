@@ -1,92 +1,70 @@
 # Hey, I'm Cesar
 
-I'm a **software engineer and indie builder** focused on building real, working products — not just demos.
+I'm a **software engineer and indie builder** focused on building and shipping real products.
 
-I specialize in **backend systems, product engineering, and turning ideas into shipped software**.  
-I enjoy owning projects end-to-end: from architecture and APIs to UX, deployment, and iteration.
-
-I currently work mainly with **Java, JavaScript, and modern web stacks**, and I spend a lot of time building side projects, SaaS tools, and developer infrastructure.
+I specialize in **backend systems, product engineering, and turning ideas into working software**.
 
 ---
 
-## 🚀 What I build
-
-I like working on products that actually get used. Some of the things I've built:
+## 🚀 Things I’ve built
 
 ### **Rediate**
-**AI workspace for content creators**
-> Turns Reddit signals into structured content ideas using sentiment, trend detection and refinement flows.
+AI workspace for content creators  
+> Turns Reddit signals into structured content ideas using sentiment, trend detection and refinement flows.  
 
-- Live product: https://getrediate.com  
+- Live: https://getrediate.com  
 - GitHub: https://github.com/crlian/rediate  
-- Focus: LLM pipelines, data ingestion, UI for creative workflows
 
 ---
 
 ### **Sherlog**
-**Browser-based log analysis tool**
-> Parses, clusters and visualizes large logs locally using WASM — nothing leaves your machine.
+Browser-based log analysis tool  
+> Parses, clusters and visualizes large logs locally using WASM — nothing leaves your machine.  
 
 - GitHub: https://github.com/crlian/sherlog  
-- Focus: performance, privacy-first tooling, developer experience
 
 ---
 
 ### **FairSplit**
-**Collaborative expense-splitting app**
-> Real-time, multi-user sessions for tracking and settling group expenses.
+Collaborative expense-splitting web app  
+> Real-time, multi-user sessions for tracking and settling group expenses.  
 
 - Live: https://fair-split-seven.vercel.app  
 - GitHub: https://github.com/Cesar-Rico/fair-split  
-- Focus: real-time UX, state sync, collaborative flows
 
 ---
 
-## 🧠 How I think about engineering
+## 🧠 How I work
 
-I care a lot about:
-
-- **Clean architecture & maintainability**
-- **Systems that don’t fall over in production**
-- **Developer experience**
-- **Fast iteration loops**
+I care about:
+- Clean architecture
+- Systems that don’t fall over in production
+- Developer experience
+- Fast iteration loops
 
 I enjoy debugging messy systems, improving reliability, and making things simpler than they were before.
 
-I’ve worked on large backend systems handling:
-- Financial calculations  
-- Business rules  
-- High-volume data  
+I've worked on large backend systems handling:
+- Financial calculations
+- Business rules
+- High-volume data
 - Integrations across multiple services  
 
 Using **Java, Spring Boot, Oracle, SQL Server, Redis, Docker and CI/CD pipelines**.
 
 ---
 
-## 🛠 Tech I use
+## 🛠 Tech
 
-- **Backend:** Java, Spring Boot, Node.js, Python
-- **Frontend:** React, TypeScript
-- **Infra:** Docker, CI/CD, Linux
-- **Data:** PostgreSQL, MySQL, Oracle, Redis
-- **AI / LLMs:** OpenAI, Claude, custom pipelines, agent workflows
-- **Tooling:** Git, GitHub Actions, Vercel, cloud deployments
-
----
-
-## 🧪 Open-source & experiments
-
-I like exploring:
-- AI agents & orchestration
-- Developer tooling
-- Automation
-- Product UX for complex systems
-
-Most of what I build ends up open-source or publicly deployed.
+**Backend:** Java, Spring Boot, Node.js, Python  
+**Frontend:** React, TypeScript  
+**Infra:** Docker, CI/CD, Linux  
+**Data:** PostgreSQL, MySQL, Oracle, Redis  
+**AI:** OpenAI, Claude, custom pipelines, agent workflows  
 
 ---
 
-## 🤝 Let’s connect
+## 🤝 Connect
 
 - GitHub: https://github.com/crlian  
 - LinkedIn: https://www.linkedin.com/in/cesar-rico-otero/
