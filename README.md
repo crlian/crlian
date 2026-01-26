@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Cesar
+# Hey, I'm Cesar
 
 I'm a **software engineer and indie builder** focused on building real, working products — not just demos.
 
