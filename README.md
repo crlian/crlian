@@ -36,3 +36,4 @@ You’ll find my products, experiments, and active work below in the **pinned re
 
 - GitHub → https://github.com/crlian  
 - LinkedIn → https://www.linkedin.com/in/cesar-rico-otero/
+- Portfolio: [https://tu-portfolio.vercel.app](https://personal-website-seven-steel.vercel.app/)
