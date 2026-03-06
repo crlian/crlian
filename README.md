@@ -23,9 +23,9 @@ I currently work mainly with **Java, JavaScript, React, and modern web stacks**,
 ### What I care about
 
 - Clean, maintainable architectures  
-- Systems that don’t fall over in production  
 - Fast iteration loops  
-- Developer experience and tooling  
+- Developer experience and tooling
+- Code code and code  
 
 Most of what I build is **open-source or publicly deployed**.  
 You’ll find my products, experiments, and active work below in the **pinned repositories** 👇
